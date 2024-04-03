@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Babai</h1>
+<img align="center" alt="coding1" width="800" src="https://github.com/Babai-here18/Babai-here18/blob/main/7ff74ca4-3785-4b45-999b-a4c2ce4f110b.jpg">
+<h1 align="center"> Hi 👋, I'm Babai </h1>
 <u><i><h3 align="center">A passionate frontend developer from India</h3></i></u>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
