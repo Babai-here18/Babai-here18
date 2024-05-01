@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babai-here18&label=Profile%20views&color=0e75b6&style=flat" alt="babai-here18" /> </p>
 
-- 🌱 I’m currently learning **DSA,HTML,CSS,JAVASCRIPT**
+- 🌱 I’m currently learning **C,DSA,HTML,CSS,JAVASCRIPT**
 
 - ⚡ Fun fact   **I am funny 😅😁**
 
